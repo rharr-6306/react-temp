@@ -7,6 +7,7 @@ Clone the repository & install TKinter
 ```
 git clone https://github.com/RHarr6306/react-temp.git
 npm install
+npm run start
 ```
 
 ### Built With
