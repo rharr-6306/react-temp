@@ -3,7 +3,7 @@ A React.js template for copying to a new project.
 
 ### Installing
 
-Clone the repository & install TKinter
+Clone the repository & install dependencies
 ```
 git clone https://github.com/RHarr6306/react-temp.git
 npm install
