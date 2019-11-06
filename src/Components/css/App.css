@@ -4,6 +4,11 @@
   margin: 4em;
   padding: 1em 2em;
   border-radius: 15px;
+  word-break: break-all;
+}
+
+code {
+  word-break: break-all;
 }
 
 .App-logo {

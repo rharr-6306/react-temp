@@ -28,7 +28,12 @@ footer {
     text-align: center;
 }
 
-.nav-item, .foot-item, #nav-title {
+.foot-item {
+    padding: 0.5em 2em;
+    color: white;
+}
+
+.nav-item, #nav-title {
     color: white;
     padding: 1em 2em;
 }

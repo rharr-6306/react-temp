@@ -12,13 +12,11 @@ function App() {
       </p>
       <h3 id="installing">Installing</h3>
       <p>Clone the repository &amp; install dependencies</p>
-      <pre>
-        <code>
-          git clone git@github.com:RHarr6306/react-temp.git
-          npm install
-          npm run start
-        </code>
-      </pre>
+      <ul>
+          <li>git clone git@github.com:RHarr6306/react-temp.git</li>
+          <li>npm install</li>
+          <li>npm run start</li>
+      </ul>
       <h3 id="built-with">Built With</h3>
       <ul>
         <li>
