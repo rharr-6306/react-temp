@@ -1,7 +1,7 @@
 # React Template
 ![](https://img.shields.io/badge/build-passing-green/?style=flat-square)
 ![](https://img.shields.io/github/repo-size/RHarr6306/react-temp?style=flat-square)
-![](https://img.shields.io/github/issues/RHarr6306r/react-temp?style=flat-square)
+![](https://img.shields.io/github/issues/RHarr6306/react-temp?style=flat-square)
 ![](https://img.shields.io/github/v/release/RHarr6306/react-temp?include_prereleases&style=flat-square)
 
 A React.js template for copying to a new project.
